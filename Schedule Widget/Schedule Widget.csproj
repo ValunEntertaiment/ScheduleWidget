@@ -94,5 +94,22 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Completed.png" />
+    <Content Include="Images\Completed.svg" />
+    <Resource Include="Images\Generate_Schedule.png" />
+    <Content Include="Images\Generate_Schedule.svg" />
+    <Content Include="Images\Generate_Schedule_hover copy.svg" />
+    <Resource Include="Images\Generate_Schedule_hover.png" />
+    <Content Include="Images\Generate_Schedule_hover.svg" />
+    <Resource Include="Images\Generate_Schedule_pressed.png" />
+    <Resource Include="Images\Item_Fill.png" />
+    <Content Include="Images\Item_Fill.svg" />
+    <Resource Include="Images\Item_Left.png" />
+    <Content Include="Images\Item_Left.svg" />
+    <Resource Include="Images\Item_Right.png" />
+    <Content Include="Images\Item_Right.svg" />
+    <Resource Include="Images\Ui_ref.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
